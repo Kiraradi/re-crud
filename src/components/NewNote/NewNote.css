@@ -1,0 +1,25 @@
+.newNote-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.newNote {
+    position: relative;
+}
+
+.newNote-textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border-radius: 5px;
+}
+
+.newNote-button {
+    position: absolute;
+    top: 70px;
+    right: 2px;
+    border: 1px solid black;
+    border-radius: 50%;
+}

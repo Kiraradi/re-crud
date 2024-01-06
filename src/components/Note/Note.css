@@ -1,0 +1,21 @@
+.note-wrapper {
+    display: flex;
+    padding: 5px;
+    gap: 10px;
+    position: relative;
+}
+
+
+.note {
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+}
+
+.note-button {
+    position: absolute;
+    top: 0;
+    background-color: white;
+    right: 5px;
+}

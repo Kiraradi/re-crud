@@ -1,0 +1,22 @@
+.crud {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 10px 30px;
+}
+
+
+.crud-header {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.notes {
+    display: flex;
+    align-items: flex-start; 
+    justify-content: center;  
+    gap: 15px;
+}
